@@ -1,0 +1,68 @@
+/* CSS Document */
+
+html, body{
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	}
+.bcg{
+	width:100%;
+	margin:0 auto;
+	position:relative;
+	z-index:-1;
+	}
+.pic{
+	width:100%
+	}
+h1{
+	position:absolute;
+	left:17%;
+	top:60px;
+	z-index:1;
+	letter-spacing:0.1em;
+	font-size:20px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	}
+.credit{
+	position:absolute;
+	left:62%;
+	top:35%;
+	fontsize:15px;
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	}
+
+span{
+	font-size:33px;
+	letter-spacing:normal;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	}
+.woniu{
+	position:absolute;
+	left:150px;
+	top:14.15%;
+	width:70%;
+	z-index:0;
+	}
+.color{
+	background-color:#33FF00;
+	position:absolute;
+	top:46.5%;
+	left:19%;
+	width:130px;
+	height:5px;
+	border-radius:25px;
+	}
+button{
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	background-color:transparent;
+	
+	font-size:14px;
+	border:medium solid;
+	letter-spacing:0.1em;
+	border-radius:5px;
+	border-color:#99FF99;
+	top:58%;
+	left:37%;
+	height:30px;
+	position:absolute;
+	}
